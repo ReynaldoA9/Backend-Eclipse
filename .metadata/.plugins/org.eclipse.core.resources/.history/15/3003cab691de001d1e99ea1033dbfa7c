@@ -1,0 +1,9 @@
+package com.bolsadeideas.springboot.backend.apirest.controllers;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+@RequestMapping("/api")
+public class ClienteRestController {
+
+}
